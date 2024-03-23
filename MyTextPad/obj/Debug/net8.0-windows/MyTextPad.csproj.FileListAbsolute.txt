@@ -1,0 +1,17 @@
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\MyTextPad.Form1.resources
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\MyTextPad.csproj.GenerateResource.cache
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\MyTextPad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\MyTextPad.AssemblyInfoInputs.cache
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\MyTextPad.AssemblyInfo.cs
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\MyTextPad.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\bin\Debug\net8.0-windows\MyTextPad.exe
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\bin\Debug\net8.0-windows\MyTextPad.dll.config
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\bin\Debug\net8.0-windows\MyTextPad.deps.json
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\bin\Debug\net8.0-windows\MyTextPad.runtimeconfig.json
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\bin\Debug\net8.0-windows\MyTextPad.dll
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\bin\Debug\net8.0-windows\MyTextPad.pdb
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\MyTextPad.dll
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\refint\MyTextPad.dll
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\MyTextPad.pdb
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\MyTextPad.genruntimeconfig.cache
+C:\Users\banan\source\repos\MyTextPad\MyTextPad\obj\Debug\net8.0-windows\ref\MyTextPad.dll
